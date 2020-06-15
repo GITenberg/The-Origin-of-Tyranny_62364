@@ -1,5 +1,8 @@
 _repo: The-Origin-of-Tyranny_62364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62364-h/images/cover.jpg
 creator:
   author:
     agent_name: Ure, P. N. (Percy Neville)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51913
     wikipedia: https://en.wikipedia.org/wiki/Percy_Ure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62364#The-Origin-of-Tyranny
 gutenberg_issued: '2020-06-10'
 gutenberg_type: Text
 identifiers:
