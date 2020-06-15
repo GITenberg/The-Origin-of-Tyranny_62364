@@ -1,0 +1,31 @@
+_repo: The-Origin-of-Tyranny_62364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ure, P. N. (Percy Neville)
+    alias: Ure, Percy Neville
+    birthdate: 1879
+    deathdate: 1950
+    gutenberg_agent_id: '51913'
+    url: http://www.gutenberg.org/2009/agents/51913
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Ure
+description: ''
+gutenberg_issued: '2020-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62364'
+  lccn: '22009411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Archaeology'
+- !lcsh 'Despotism'
+- !lcc 'DE'
+- !lcsh 'Civilization, Ancient'
+- !lcsh 'Greece -- History -- To 146 B.C.'
+- !lcsh 'Wealth'
+- GITenberg
+title: The Origin of Tyranny
+url: http://www.gutenberg.org/ebooks/62364
